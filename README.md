@@ -6,6 +6,11 @@
 * 支持 模糊拼音以及配置
 * 集成 20款 输入法皮肤, 来源 https://ssnhd.com/2022/01/11/rime-skin/ 包括微信皮肤
 * 新增主题。支持Linux、MacOS。
+https://blog.shelken.top/p/%E7%AE%80%E5%8D%95%E5%9C%B0%E4%BD%BF%E7%94%A8%E5%BC%80%E6%BA%90%E7%9A%84%E8%BE%93%E5%85%A5%E6%B3%95-rime/
+修改在 custom 目录下的配置文件
+重新运行 installer. rb ，选 2 手动模式，再选 4，复制你的配置到 rime 的配置。
+然后重新部署 rime。快捷键 alt + ctrl + `
+git add commit push
 
 # 一、不同系统下使用说明
 
